@@ -1,0 +1,31 @@
+{
+  "Home": {
+    "title": "Hello world!",
+    "welcome": {
+      "title": "Welcome to the home page"
+    }
+  },
+  "LogInForm": {
+    "title": "Sign In",
+    "placeholder": "Enter username",
+    "button": "Sign In",
+    "Logout": "Log out",
+    "Login": "Log in",
+    "errors": {
+      "required": "Username is required",
+      "minLength": "Username must be at least 4 characters",
+      "maxLength": "Username must be less than 20 characters",
+      "invalidChars": "Only letters, numbers and underscores allowed",
+      "notFound": "Username not found. Please check and try again.",
+      "serverError": "Error connecting to server. Please try again later."
+    }
+  },
+  "BonusPage": {
+    "heading": "Bonus Shop",
+    "welcome": "Welcome",
+    "noLoggedUser": "Please login to see available bonuses",
+    "noBonuses": "No bonuses available at the moment.",
+    "balance": "Balance",
+    "deposit": "Deposit"
+  }
+}
